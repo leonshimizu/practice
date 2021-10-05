@@ -20,7 +20,13 @@ end
 i = 0
 students.length.times do
   if students[i + 1] != nil
-    p "Group: #{students[i]} and #{students[i + 1]}"
+    if students.length % 2 == 0
+      p "Group: #{students[i]} and #{students[i + 1]}"
+    elsif students.length % 2 == 1
+      p "1 group of 3"
+    end
   end
   i += 2
 end
+
+# Question - how would I use an each loop here and have it increment 2 instead of 1
