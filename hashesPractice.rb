@@ -43,3 +43,5 @@ users = []
 end
 
 p users
+
+# practice with the rand(10 ** 10) 
