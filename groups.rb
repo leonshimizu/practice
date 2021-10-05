@@ -16,3 +16,7 @@ while true
 end
 
 p students
+
+# questions 
+# - is there a way to create an infinite amount of new arrays? The way I'm thinking of doing it is by creating a set amount of empty arrays (ex. 10) and then putting 2 people into a group and then if that group has 2 people, then go to the next one and so on
+# - or is there a different way to store all the different groups of students?

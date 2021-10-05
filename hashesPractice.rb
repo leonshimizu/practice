@@ -4,29 +4,29 @@
 
 # users = [
 #   {
-#     "first_name" => "",
-#     "last_name" => "",
-#     "email" => ""
+#     "first_name" => "Clai",
+#     "last_name" => "Crisostomo",
+#     "email" => "claiacrisostomo@gmail.com"
 #   },
 #   {
-#     "first_name" => "",
-#     "last_name" => "",
-#     "email" => ""
+#     "first_name" => "Leon",
+#     "last_name" => "Shimizu",
+#     "email" => "lmshimizu@gmail.com"
 #   },
 #   {
-#     "first_name" => "",
-#     "last_name" => "",
-#     "email" => ""
+#     "first_name" => "John",
+#     "last_name" => "Shimizu",
+#     "email" => "jgs@ambrosguam.com"
 #   },
 #   {
-#     "first_name" => "",
-#     "last_name" => "",
-#     "email" => ""
+#     "first_name" => "Dafne",
+#     "last_name" => "Shimizu",
+#     "email" => "dafne.shimizu@gmail.com"
 #   },
 #   {
-#     "first_name" => "",
-#     "last_name" => "",
-#     "email" => ""
+#     "first_name" => "Stassie",
+#     "last_name" => "Shimizu",
+#     "email" => "stassie.shimizu@gmail.com"
 #   }
 # ]
 
